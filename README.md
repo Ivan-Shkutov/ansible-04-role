@@ -70,7 +70,7 @@
 
 ### Решение:
 
-
+[playbook](https://github.com/Ivan-Shkutov/ansible-04-role/tree/main/playbook)
 
 
 
