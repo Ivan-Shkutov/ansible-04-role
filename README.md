@@ -72,7 +72,9 @@
 
 [playbook](https://github.com/Ivan-Shkutov/ansible-04-role/tree/main/playbook)
 
+[vector-role](https://github.com/Ivan-Shkutov/vector-role)
 
+[lighthouse-role](https://github.com/Ivan-Shkutov/lighthouse-role)
 
 
 ---
